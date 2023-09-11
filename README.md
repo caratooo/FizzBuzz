@@ -148,7 +148,8 @@ In Python, any code that you write in a file will get run when you execute the f
 This is not the case in Java. You must define a method called `main` in a class
 and tell Java to run the file containing that class.
 
-```java
+```
+java
 public static void main(String[] args)
 ```
 
@@ -286,7 +287,7 @@ through the readings over the next couple of weeks.
 
 ### Task 3.3 Push your latest changes
 
-- [ ] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
+- [X] Now that you've made some more changes to your repository, you should repeat the add, commit, push process
 for any files that you have changed if you haven't done so recently. Remember to include a descriptive commit message.
 
 ### Task 3.4 Pulling changes from GitHub

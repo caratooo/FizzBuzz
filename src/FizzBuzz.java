@@ -43,7 +43,7 @@ class FizzBuzz {
 
     }
 
-    private static void fizz_buzz_lol(int i) {
+    public static void fizz_buzz_lol(int i) {
         boolean divisibleBy3 = i % 3 == 0;
         boolean divisibleBy5 = i % 5 == 0;
 
